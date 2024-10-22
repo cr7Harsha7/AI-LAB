@@ -1,5 +1,3 @@
-#Misplaced tiles
-
 import heapq
 import numpy as np
 
